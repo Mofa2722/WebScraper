@@ -7,7 +7,7 @@ Voraussetzungen:
 - pip install webdriver-manager
 - Poetry (Empfehlenswert)
 
-Funktionen :  V.3.1.2
+Funktionen :  V.3.1.1
 - Automatisches Maximieren des Chrome Drivers
 - Cookie auswahl bestätigen
 - Auf alle PDF buttons klicken

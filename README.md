@@ -7,12 +7,11 @@ Voraussetzungen:
 - pip install webdriver-manager
 - Poetry (Empfehlenswert)
 
-Funktionen :  
+Funktionen :  V.3.1.2
 - Automatisches Maximieren des Chrome Drivers
 - Cookie auswahl bestätigen
--Auf PDF button zum Herunterladen in PDF Verzeichnis klicken
+- Auf alle PDF buttons klicken
+- Herunterladen in eigenes Verzeichnis
 
-Verbesserung: 
-- Chrome Driver beendet augenblicklich nach anklicken von jeder Datei, ohne zu überprüfen ob Dateien fertig heruntergeladen sind.
-- Versuche den aktuellen If-try Block aufzulösen, um eine While-true schleife zum Aufrufen der Links zu erzeugen, 
-  haben bisher dazu geführt, dass die erste Datei heruntergeladen wird und dann stoppt.
+  Fehlerbehebungen:
+  - eigenständiges schließen des Chrome Drivers

@@ -40,4 +40,6 @@ except Exception as e:
     print(f"Ein unerwarteter Fehler ist aufgetreten: {e}")
 
 finally:
+    # Warte auf eine Eingabe vom Benutzer, bevor der ChromeDriver geschlossen wird
+    input("Drücke Enter, um den ChromeDriver zu schließen...")
     driver.quit()

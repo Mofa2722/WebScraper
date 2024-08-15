@@ -16,5 +16,5 @@ Funktionen :  V.3.1.1
 Fehlerbehebungen:
 - eigenständiges schließen des Chrome Drivers
 
-Verbesserungen:
+To do:
 - objektorientiert arbeiten. Klassen, methoden, konstruktoren erstellen

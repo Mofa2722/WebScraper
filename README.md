@@ -13,5 +13,8 @@ Funktionen :  V.3.1.1
 - Auf alle PDF buttons klicken
 - Herunterladen in eigenes Verzeichnis
 
-  Fehlerbehebungen:
-  - eigenständiges schließen des Chrome Drivers
+Fehlerbehebungen:
+- eigenständiges schließen des Chrome Drivers
+
+Verbesserungen:
+- objektorientiert arbeiten. Klassen, methoden, konstruktoren erstellen
